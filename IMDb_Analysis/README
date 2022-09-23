@@ -1,0 +1,9 @@
+Ethan Eill
+12/15/2021
+
+IMDb Analysis uses the Beautiful Soup Python library
+to grab real time data from the IMDb website and
+perform calculations on that data for the user
+
+*IMPORTANT*
+Must have Beautiful Soup library installed on your machine
