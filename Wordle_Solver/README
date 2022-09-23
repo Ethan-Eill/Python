@@ -1,0 +1,14 @@
+Ethan Eill
+04/06/2022
+
+Wordle Solver using selenium travels to a wordle unlimited website
+and solves wordle puzzles until failure
+
+*IMPORTANT*
+In order for this code to run, chromedriver must be installed
+and same version as your chrome browser
+
+*UPDATE*  *04/24/2022*
+Algorithms used to solve puzzle still work, however the website
+is updated so frequently that the HTML elements change every week.
+Therefore code no longer works properly.
